@@ -26,13 +26,28 @@ a {
 	color: #BD7AD3;
 	font-family: papyrus, optima, sans-serif;
 }
+.bodyBox {
+	width: 1200px;
+	background-color: #37D7FF;
+	margin: auto;
+	color: #BD7AD3;
+	font-family: papyrus, optima, sans-serif; 
+}
+.bodyHead {
+	font-size: 90px;
+	text-align: center;
+	margin: 10px 0;
+}
+.partyList {
+	font-size: 25px;
+}
+.partyList div {
+	margin: 10px 0;
+}
 footer {
 	height: 75px;
 	width: 100%;
 	background-color: black;
-	position:absolute;
-	bottom:0;
-	left:0;
 }
 .btmLink {
 	flex-flow: row;

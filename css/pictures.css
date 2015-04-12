@@ -26,13 +26,89 @@ a {
 	color: #BD7AD3;
 	font-family: papyrus, optima, sans-serif;
 }
+.bodyBox {
+	width: 1200px;
+	height: 1900px;
+	background-color: #37D7FF;
+	margin: auto;
+}
+.boxTitle {
+	font-size: 90px;
+	color: #BD7AD3;
+	font-family: papyrus, optima, sans-serif;
+	text-align: center;
+	padding-top: 15px;
+}
+.pictureBox {
+	height: 325px;
+	width: 500px;
+	float: left;
+	margin: 17px 20px 0 60px;
+}
+.img1 {
+	height: 100%;
+	width: 100%;
+	background-image: url("http://images.sequart.org/images/Adventure-Time-Top-Image.jpg");
+	background-size: cover;
+}
+.img2 {
+	height: 100%;
+	width: 100%;
+	background-image: url("http://o.aolcdn.com/hss/storage/midas/177f08ad24bd8552db7c49d0cb15da44/200549717/2468603-38304-adventure-time-adventure-time-characters.png");
+	background-size: cover;
+}
+.img3 {
+	height: 100%;
+	width: 100%;
+	background-image: url("https://adventuretimepop.files.wordpress.com/2013/12/adventure-time-characters.jpg");
+	background-size: cover;
+}
+.img4 {
+	height: 100%;
+	width: 100%;
+	background-image: url("http://nintendoeverything.com/wp-content/gallery/adventure-time_1/adventure_time-1.jpg");
+	background-size: cover;
+}
+.img5 {
+	height: 100%;
+	width: 100%;
+	background-image: url("http://p1.pichost.me/640/58/1822321.jpg");
+	background-size: cover;
+}
+.img6 {
+	height: 100%;
+	width: 100%;
+	background-image: url("http://www.gambitmag.com/wp-content/uploads/2015/01/Adventure_time.rpg_.jpg");
+	background-size: cover;
+}
+.img7 {
+	height: 100%;
+	width: 100%;
+	background-image: url("http://img0.joyreactor.cc/pics/post/full/%D1%84%D1%8D%D0%BD%D0%B4%D0%BE%D0%BC%D1%8B-adventure-time-%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%81%D0%BE%D0%B2%D0%B0-%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8C-%D1%87%D0%B5%D1%80%D0%B2%D1%8C-1620692.jpeg");
+	background-size: cover;
+}
+.img8 {
+	height: 100%;
+	width: 100%;
+	background-image: url("http://i.imgur.com/MNXxLiq.jpg");
+	background-size: cover;
+}
+.img9 {
+	height: 100%;
+	width: 100%;
+	background-image: url("http://fc09.deviantart.net/fs71/f/2013/143/4/e/adventure_time_by_yopii999-d66asjv.jpg");
+	background-size: cover;
+}
+.img10 {
+	height: 100%;
+	width: 100%;
+	background-image: url("http://fc02.deviantart.net/fs71/f/2012/364/5/0/bmo_wallpaper_by_kobbie3-d5pr0u7.png");
+	background-size: cover;
+}
 footer {
 	height: 75px;
 	width: 100%;
 	background-color: black;
-	position:absolute;
-	bottom:0;
-	left:0;
 }
 .btmLink {
 	flex-flow: row;
